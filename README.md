@@ -19,9 +19,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mostafizur-rah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafizur-rah" height="30" width="40" /></a>
+ <a href="https://www.facebook.com/username.mostafiz"> <img height="30" width="40" align="center" 
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/2048px-Facebook_f_logo_%282019%29.svg.png"
+            alt=""></a>
 </p>
-<h3 align="left">Commetitive programming profile:</h3>
- <a href="https://codeforces.com/profile/_MostaFiz"> <img height="50" width="50"
+ 
+<h2 align="left">Competitive programming profile:</h2>
+ <a href="https://codeforces.com/profile/_MostaFiz"  target="blank"> <img height="50" width="50"
             src="https://res.cloudinary.com/practicaldev/image/fetch/s--N2_RJe5R--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cer3l19eex0wy900b101.jpg"
             alt=""></a>
             <a href="https://www.codechef.com/users/mostafizur_rah"> <img height="50" width="50"
