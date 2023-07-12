@@ -6,13 +6,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafizur-raahman&label=Profile%20views&color=0e75b6&style=flat" alt="mostafizur-raahman" /> </p>
 
-- 🔭 I’m currently working on [react-context-api](https://github.com/mostafizur-raahman/tshirt-context-api)
-
+- 🔭 I’m currently working on **Next JS**
 - 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on [Weather-app-java](https://github.com/mostafizur-raahman/Android-final-project)
 
-- 💬 Ask me about **React,TypeScript**
+- 💬 Ask me about **React,Next**
 
 - 📫 How to reach me **mostafizurrahman0202@gmail.com**
 
