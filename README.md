@@ -6,8 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafizur-raahman&label=Profile%20views&color=0e75b6&style=flat" alt="mostafizur-raahman" /> </p>
 
-- 🔭 I’m currently working on **Next JS**
-- 🌱 I’m currently learning **React**
+- 🔭 I’m currently working on **TypeScript**
+- 🌱 I’m currently learning **Prisma and Docker**
 
 - 👯 I’m looking to collaborate on [Weather-app-java](https://github.com/mostafizur-raahman/Android-final-project)
 
