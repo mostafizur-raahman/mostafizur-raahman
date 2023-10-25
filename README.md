@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 <h1 align="center">Hi 👋, I'm Mostafizur Rahman</h1>
-<h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
+<h3 align="center">A passionate Node js Engineer from Bangladesh</h3>
  <img width="400" align="right" src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif"
         alt="">
 
