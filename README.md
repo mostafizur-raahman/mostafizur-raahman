@@ -6,8 +6,8 @@
 ### 🛠 **Tech Stack**
 
 - **Languages:** JavaScript,TypeScript,Java
-- **Frameworks:** Nodejs,NestJS,React JS, Next.js
-- **Tools:** Docker, Kubernetes, Redis, PostgreSQL, MongoDB
+- **Frameworks:** NodeJS,NestJS,ReactJS, Next.js
+- **Tools:** Docker,Kubernetes,Redis,PostgreSQL,MongoDB
 - **Practices:** Domain-Driven Design, SOLID Principles, Microservices Architecture
 
 ---
@@ -23,7 +23,7 @@ Currently diving deeper into:
 
 ### 📈 **Stats**
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mostafizur-rahman&show_icons=true&theme=radical)](https://github.com/mostafizur-rahman)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mostafizur-raahman&show_icons=true&theme=radical)](https://github.com/mostafizur-raahman)
 
 ---
 # 🌐 Connect with Me
