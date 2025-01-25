@@ -5,7 +5,7 @@
 
 ### 🛠 **Tech Stack**
 
-- **Languages:** JavaScript,TypeScript,Java
+- **Languages:** JavaScript,TypeScript,Go,Java
 - **Frameworks:** NodeJS,NestJS,ReactJS, Next.js
 - **Tools:** Docker,Kubernetes,Redis,PostgreSQL,MongoDB
 - **Practices:** Domain-Driven Design, SOLID Principles, Microservices Architecture
