@@ -5,7 +5,7 @@
 
 ### 🛠 **Tech Stack**
 
-- **Languages:** JavaScript,TypeScript,Go,Java
+- **Languages:** Node,Go
 - **Frameworks:** NodeJS,NestJS,ReactJS, Next.js
 - **Tools:** Docker,Kubernetes,Redis,PostgreSQL,MongoDB
 - **Practices:** Domain-Driven Design, SOLID Principles, Microservices Architecture
@@ -16,7 +16,7 @@
 
 Currently diving deeper into:
 
-- Advanced NestJS Techniques
+- Advanced NestJS Techniques , Go ,gRPC , Nats
 - Distributed Computing and Event-driven Architectures
 
 ---
