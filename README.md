@@ -27,7 +27,7 @@
 | **Orchestration** | Kubernetes (EKS/GKE/AKS), Docker Swarm |
 | **CI/CD & GitOps** | ArgoCD, GitHub Actions, GitLab CI |
 | **Infrastructure** | Pulumi, AWS CDK, Terraform |
-| **Observability** | Prometheus, Loki, Grafana, Jaeger |
+| **Observability** | Prometheus, Loki, Grafana |
 | **Security** | OAuth2, JWT|
 
 ---
