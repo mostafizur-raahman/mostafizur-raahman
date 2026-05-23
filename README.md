@@ -2,37 +2,61 @@
 
 **Backend Engineer** [@ZAAG](https://zaagsys.com/)
 
+> Building scalable, resilient systems with modern cloud-native architectures
 
-### 🛠 **Tech Stack**
+⭐ **Open for:** Backend Engineering roles | Cloud Architecture | Technical Leadership
 
-- **Languages:** Node,Go
-- **Frameworks:** NodeJS,NestJS,ReactJS, Next.js
-- **Tools:** Docker,Kubernetes,Redis,PostgreSQL,MongoDB
-- **Practices:** Domain-Driven Design, SOLID Principles, Microservices Architecture
+### 💡 **Core Competencies**
 
----
-
-### 🌱 **Learning**
-
-Currently diving deeper into:
-
-- Advanced NestJS Techniques , Go ,gRPC , Nats
-- Distributed Computing and Event-driven Architectures
+- **System Design:** Distributed Systems, Event-Driven Architecture, CQRS
+- **Cloud-Native:** Docker, Kubernetes, Helm, ArgoCD
+- **Observability:** Prometheus, Grafana, Loki, OpenTelemetry
+- **Infrastructure as Code:** Pulumi, Terraform
+- **API Design:** REST, GraphQL, gRPC
 
 ---
 
-### 📈 **Stats**
+### 🛠 **Technical Arsenal**
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mostafizur-raahman&show_icons=true&theme=radical)](https://github.com/mostafizur-raahman)
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | Go, Node.js, TypeScript |
+| **Frameworks** | NestJS, Express, Gin, Fiber |
+| **Databases** | PostgreSQL, MongoDB, Redis |
+| **Message Brokers** | Kafka, RabbitMQ, NATS |
+| **Orchestration** | Kubernetes (EKS/GKE/AKS), Docker Swarm |
+| **CI/CD & GitOps** | ArgoCD, GitHub Actions, GitLab CI |
+| **Infrastructure** | Pulumi, AWS CDK, Terraform |
+| **Observability** | Prometheus, Loki, Grafana, Jaeger |
+| **Security** | OAuth2, JWT|
 
 ---
-# 🌐 Connect with Me
- 
-🌟 **[LinkedIn](https://www.linkedin.com/in/mostafizur-rah/)**  
-🐙 **[GitHub](https://github.com/mostafizur-raahman)**  
-📧 **[Email](mailto:mostafizurrahman0202@gmail.com)**  
 
+### 📐 **Architecture Philosophy**
+
+- **Domain-Driven Design (DDD)** - Strategic & Tactical patterns
+- **Microservices** - Service mesh (Istio/Linkerd), API Gateway
+- **SOLID Principles** - Clean code, Testability
+- **Hexagonal Architecture** - Ports & adapters
+- **12-Factor App** - Cloud-native best practices
 
 ---
 
-> *"Code is poetry, and every line is a step closer to solving real-world problems."*
+### 📊 **GitHub Analytics**
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mostafizur-raahman&show_icons=true&theme=radical&count_private=true)](https://github.com/mostafizur-raahman)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mostafizur-raahman&theme=radical)](https://github.com/mostafizur-raahman)
+
+---
+
+### 🚀 **Current Focus**
+
+- 🔭 Building production-grade Kubernetes operators
+- 📊 Implementing full-stack observability with Loki + Prometheus
+- 🔄 GitOps workflows with ArgoCD & Pulumi
+- 🎯 Service mesh architectures (Istio)
+
+---
+
+### 📈 **Experience Highlights**
