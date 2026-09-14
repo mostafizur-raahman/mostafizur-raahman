@@ -1,6 +1,6 @@
 # Md Mostafizur Rahman
 
-**Backend Engineer** [@ZAAG](https://zaagsys.com/)
+**Backend Engineer** [@Care Guide](https://careguidebd.com/)
 
 > Building scalable, resilient systems with modern cloud-native architectures
 
@@ -20,7 +20,7 @@
 
 | Category | Technologies |
 |----------|--------------|
-| **Languages** | Go, Node.js, TypeScript |
+| **Languages** | Go,Rust, Node.js, TypeScript |
 | **Frameworks** | NestJS, Express, Gin, Fiber |
 | **Databases** | PostgreSQL, MongoDB, Redis |
 | **Message Brokers** | Kafka, RabbitMQ, NATS |
